@@ -1,9 +1,9 @@
 # Setup
 
-# npm intall
+## npm intall
 ..
-# npm install -g nodemon
+## npm install -g nodemon
 ..
-# Setup mysql
+## Setup mysql
 ..
-# Import sample database
+## Import sample database
